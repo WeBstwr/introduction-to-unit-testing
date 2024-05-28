@@ -23,6 +23,6 @@ function fizzBuzz(num) {
   
   for (let num = 1; num <= 100; num++) {
     console.log(fizzBuzz(num))
-}
+    }
 
-  module.exports = {fizzBuzz};git
+  module.exports = {fizzBuzz};
